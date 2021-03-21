@@ -1,0 +1,31 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=02c97f4a_002De251_002D4f32_002Db156_002De9e809c933bf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from UnitTest1.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFile&gt;F5FCEAAD-644A-4DBA-B9A8-0F9FF4E5AC7C/f:CloneableTest.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;F5FCEAAD-644A-4DBA-B9A8-0F9FF4E5AC7C/f:TypeConversionTest.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;F5FCEAAD-644A-4DBA-B9A8-0F9FF4E5AC7C/f:BoxingUnboxingTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;F5FCEAAD-644A-4DBA-B9A8-0F9FF4E5AC7C/f:EnumerableEnumeratorTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;F5FCEAAD-644A-4DBA-B9A8-0F9FF4E5AC7C/f:QueryableLinqTest.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::F5FCEAAD-644A-4DBA-B9A8-0F9FF4E5AC7C::net6.0::TestProject1.CompareToComparerTests.Test1&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::F5FCEAAD-644A-4DBA-B9A8-0F9FF4E5AC7C::net6.0::TestProject1.ListTest.SpeedListTest&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;ProjectFile&gt;F5FCEAAD-644A-4DBA-B9A8-0F9FF4E5AC7C/f:CompareToComparerTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;F5FCEAAD-644A-4DBA-B9A8-0F9FF4E5AC7C/f:OopTest.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;F5FCEAAD-644A-4DBA-B9A8-0F9FF4E5AC7C/f:GetHashCodeEqualsTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;F5FCEAAD-644A-4DBA-B9A8-0F9FF4E5AC7C/f:DictionaryTest.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;F5FCEAAD-644A-4DBA-B9A8-0F9FF4E5AC7C/f:ListTest.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ab462e6b_002Dee50_002D4b7d_002D9950_002D690a86c5f8d4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SpeedListTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::F5FCEAAD-644A-4DBA-B9A8-0F9FF4E5AC7C::net6.0::TestProject1.ListTest.SpeedListTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::F5FCEAAD-644A-4DBA-B9A8-0F9FF4E5AC7C::net6.0::TestProject1.DelegateTest.SumDelegateTest&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;ProjectFile&gt;F5FCEAAD-644A-4DBA-B9A8-0F9FF4E5AC7C/f:DelegateTest.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	</wpf:ResourceDictionary>
